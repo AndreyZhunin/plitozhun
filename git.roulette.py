@@ -35,3 +35,5 @@ while True:
         print("Вы проиграли, у вас закончились фишки")
         break
     print("Количество фишек после цикла:", number_of_chips)
+
+    print("Ура")
