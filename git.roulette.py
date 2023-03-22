@@ -36,4 +36,4 @@ while True:
         break
     print("Количество фишек после цикла:", number_of_chips)
 
-    print("Ура")
+    print("Ура") # удоли
